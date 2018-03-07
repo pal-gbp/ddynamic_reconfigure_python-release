@@ -1,0 +1,12 @@
+Source: ros-kinetic-ddynamic-reconfigure-python
+Section: misc
+Priority: extra
+Maintainer: Sam Pfeiffer <sam.pfeiffer@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-dynamic-reconfigure, ros-kinetic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-ddynamic-reconfigure-python
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-dynamic-reconfigure, ros-kinetic-rospy
+Description: The ddynamic_reconfigure_python package contains a class to instantiate dynamic reconfigure servers on the fly registering variables
