@@ -1,3 +1,26 @@
+## ddynamic_reconfigure_python (lunar) - 0.0.1-0
+
+The packages in the `ddynamic_reconfigure_python` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release ddynamic_reconfigure_python --track lunar --rosdistro lunar --new-track` on `Wed, 16 Jan 2019 13:44:03 -0000`
+
+The `ddynamic_reconfigure_python` package was released.
+
+Version of package(s) in repository `ddynamic_reconfigure_python`:
+
+- upstream repository: https://github.com/pal-robotics/ddynamic_reconfigure_python.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## ddynamic_reconfigure_python (melodic) - 0.0.1-0
 
 The packages in the `ddynamic_reconfigure_python` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release ddynamic_reconfigure_python --track melodic --rosdistro melodic --new-track` on `Wed, 16 Jan 2019 12:31:36 -0000`
