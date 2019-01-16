@@ -1,0 +1,10 @@
+ros-lunar-ddynamic-reconfigure-python (0.0.1-0stretch) stretch; urgency=high
+
+  * Add namespace to reconfigure server
+  * Added examples, making the api easier to use
+  * Initial commit
+  * Contributors: Sam Pfeiffer
+
+ -- Sam Pfeiffer <sam.pfeiffer@pal-robotics.com>  Tue, 20 Sep 2016 22:00:00 -0000
+
+
