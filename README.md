@@ -1,3 +1,26 @@
+## ddynamic_reconfigure_python (noetic) - 0.0.1-1
+
+The packages in the `ddynamic_reconfigure_python` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ddynamic_reconfigure_python --track noetic --rosdistro noetic --new-track` on `Fri, 30 Oct 2020 12:22:46 -0000`
+
+The `ddynamic_reconfigure_python` package was released.
+
+Version of package(s) in repository `ddynamic_reconfigure_python`:
+
+- upstream repository: https://github.com/pal-robotics/ddynamic_reconfigure_python.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.8`
+- catkin_pkg version: `0.4.22`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## ddynamic_reconfigure_python (lunar) - 0.0.1-0
 
 The packages in the `ddynamic_reconfigure_python` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release ddynamic_reconfigure_python --track lunar --rosdistro lunar --new-track` on `Wed, 16 Jan 2019 13:44:03 -0000`
